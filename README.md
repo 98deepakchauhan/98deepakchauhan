@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/98deepakchauhan" target="blank"><img src="https://img.shields.io/twitter/follow/98deepakchauhan?logo=twitter&style=for-the-badge" alt="98deepakchauhan" /></a> </p>
 
-- 🔭 I’m currently working on [Veelo](https://github.com/RiverhouseTechnologies/veelo-web)
-
 - 🌱 I’m currently learning **Angular, ReactNative, JavaScript**
 
 - 💬 Ask me about **CSS, Bootstrap, Angular, ReactNative, WordPress**
