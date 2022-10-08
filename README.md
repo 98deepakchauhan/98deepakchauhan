@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on [Veelo](https://github.com/RiverhouseTechnologies/veelo-web)
 
-- 🌱 I’m currently learning **Angular, ReactNative**
+- 🌱 I’m currently learning **Angular, ReactNative, JavaScript**
+
+- 💬 Ask me about **CSS, Bootstrap, Angular, ReactNative, WordPress**
 
 - 📫 How to reach me **98deepakchauhan@gmail.com**
 
